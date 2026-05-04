@@ -1,6 +1,7 @@
 chai_type = "Plain"
 
 def front_desk():
+    # chai_type = "lemon"
     def kitchen():
         global chai_type
         chai_type = "Irani"

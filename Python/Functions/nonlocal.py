@@ -1,3 +1,4 @@
+chai_type = "Ginger"
 def update_order():
     chai_type ="Elaichi"
     def kitchen():
